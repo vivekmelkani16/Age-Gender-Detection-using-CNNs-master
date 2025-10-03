@@ -1,0 +1,13 @@
+tensorflow 
+keras 
+scikit-learn 
+numpy 
+opencv-python
+glob2 
+random2
+cvlib 
+python-math 
+argparse 
+pyaudio 
+pyttsx3 
+matplotlib

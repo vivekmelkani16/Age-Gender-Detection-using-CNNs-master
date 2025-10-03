@@ -1,0 +1,22 @@
+First we detect Age and Gender based on model After Robot will speak based on your gender classification 
+install libraries :- 
+	tensorflow 
+	keras 
+	sklearn 
+	numpy 
+	cv2 
+	os 
+	glob 
+	random 
+	cvlib 
+	math 
+	argparse 
+	pyaudio 
+	pyttsx3 
+	matplotlib
+
+download facedataset from Kaggle link is (https://www.kaggle.com/datasets/nipunarora8/age-gender-and-ethnicity-face-data-csv)
+
+run train.py for training data run main_code.py for testing data/detect Age and Gender
+
+First we will detect Age and Gender after robot will speak according to gender
