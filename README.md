@@ -1,22 +1,4 @@
-# Age and Gender Detection using CNNs
+Gender and Age Detection Using CNN
+This project is a Deep Learning-based system that accurately detects a person's gender and age from facial images or a live webcam feed. It uses a Convolutional Neural Network (CNN) trained on the Adience dataset to classify faces into gender categories and age groups.
 
-This repository contains a project for detecting age and gender from facial images using Convolutional Neural Networks (CNNs). The model is trained to classify a person's age into specific ranges and determine their gender (male or female).
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-To run this project, you need to have **Python 3.x** and the following libraries installed:
-
-* **TensorFlow**
-* **Keras**
-* **OpenCV**
-* **Numpy**
-* **imutils**
-
-You can install all the required libraries using `pip`:
-
-```bash
-pip install tensorflow keras opencv-python numpy imutils
